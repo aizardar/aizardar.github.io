@@ -78,11 +78,11 @@ analytics:
 # Site Author
 author:
   name             : "Ankit Izardar"
-  avatar           : "rachael_headshot (2).jpg"
-  bio              : "Data Science"
+  avatar           : ""
+  bio              : "Material Science, Data Science"
   location         : "Zurich, Switzerland"
   employer         : 
-  googlescholar    : "https://scholar.google.com/citations?user=YZZM1YoAAAAJ&hl=en"
+  googlescholar    : #"https://scholar.google.com/citations?user=YZZM1YoAAAAJ&hl=en"
   email            : "ankit.izardar@gmail.com"
   uri              :
   bitbucket        :
