@@ -78,12 +78,12 @@ analytics:
 # Site Author
 author:
   name             : "Ankit Izardar"
-  avatar           : "ankit_1.png"
+  avatar           : "ankit.png"
   bio              : "Material Science, Data Science"
   location         : "Zurich, Switzerland"
   employer         : 
   googlescholar    : #"https://scholar.google.com/citations?user=YZZM1YoAAAAJ&hl=en"
-  email            : "ankit.izardar@gmail.com"
+  email            : "ankitizardar@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
