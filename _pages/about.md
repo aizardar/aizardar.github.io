@@ -7,15 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a senior developer advocate for [Rasa](https://rasa.com/), where I'm helping devlopers build and deploy ML chatbots using our open source framework. 🤖💬
 
-The best way to keep up with me is [on Twitter](https://twitter.com/rctatman).
+I am a Ph.D. student in the Materials Theory Group at ETH Zürich. In my research, I use quantum-mechanical simulations together with high-performance computing, data analytics, and machine learning to design and discover new magnetic materials.
 
-I have a PhD in Linguistics from [the University of Washington](https://linguistics.washington.edu/). My research was on [computational sociolinguistics](https://makingnoiseandhearingthings.com/2017/06/13/what-is-computational-sociolinguistics-and-whos-doing-it/), or how our social identity affects the way we use language in computational contexts. Previously I was [a data scientist at Kaggle](https://www.kaggle.com/rtatman) and I'm still a Grandmaster. 
+Before moving to Zuerich, I completed my Bachelor's degree in Metallurgical and Materials Engineering at NITK, Surathkal in India and a Master's degree in Materials Science and Simulation at .[ICAMS](http://www.icams.de/content/), Ruhr University Bochum ,Germany with a specialization in advanced atomistic simulation methods. During my time in Germany, I also got the oportunity to work as a student research assistant in the Department of Computational Materials Design at Max-Planck-Institut für Eisenforschung, where I implemented a .[Kinetic Monte-Carlo code](https://github.com/aizardar/Kinetic-Monte-Carlo-code) in Python to study the hydrogen diffusion in Fe-Mn-Al alloys.
 
-Here's my current streaming sechdule. You can tune in on [my Twitch](https://www.twitch.tv/rctatman/). You can find recordings of my past streams on [my personal YouTube Channel](https://www.youtube.com/c/RachaelTatmanNLP), the [Rasa YouTube Channel](https://www.youtube.com/channel/UCJ0V6493mLvqdiVwOKWBODQ) and [the Kaggle YouTube Channel](https://www.youtube.com/channel/UCSNeZleDn9c74yQc-EKnVTA). 
-
-* Tuesdays @ 4:20 PM Pacific: Personal projects/varying topics
-* [Currently on break] Wednesdsays @ 9:00 AM Pacific: Office hours (live Q&A with a Rasa team member)
-* [Currently on break] Thursdays @ 9:00 AM Pafici: Live ML Paper Reading
-* [Currently on break] Fridays @ 9:00 AM Pacific: Live Coding
+I am currently working on next-generation rare-earth-free permanent magnets where I employ Density functional theory, Monte Carlo simulations, and machine learning to investigate magnetic properties of L10 strucutured FeNi alloy. If you would like to read more about my research, please check out the publication page. 
