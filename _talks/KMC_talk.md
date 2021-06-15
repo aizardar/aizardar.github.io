@@ -8,7 +8,7 @@ date: 2017-07-08
 location: "Ebernburg, Germany"
 ---
 
-In this talk, I discuss about the affect of alloying element (Mn, Al) on Hydrgoen diffusivity in
+In this presentation, I talked about the affect of alloying element (Mn, Al) on Hydrogen diffusivity in
 austenitic steels.
 
-* [Link to slides](https://github.com/aizardar/aizardar.github.io/blob/2972c5982b759ad46809403e28f3d15f194a85f2/files/Poster_Paper_1.pdf)
+* [Link to slides](https://github.com/aizardar/aizardar.github.io/blob/8ac1d9b9d4e3c1f6cdde1fc4d11c4fb1ba211ea6/files/CM_retreat.pdf)
