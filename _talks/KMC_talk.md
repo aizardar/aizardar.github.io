@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/KMC_talk
 venue: CMD-AMS Scientific Retreat
-date: 2017-07-08
+date: 2017-09-07
 location: "Ebernburg, Germany"
 ---
 
