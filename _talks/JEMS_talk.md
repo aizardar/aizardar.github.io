@@ -9,4 +9,4 @@ location: "Virtual"
 ---
 
 In this presentation, I talked about the effect of chemical disorder on the anisotropy in L10-FeNi alloy
-* [Link to slides](https://github.com/aizardar/aizardar.github.io/blob/8ac1d9b9d4e3c1f6cdde1fc4d11c4fb1ba211ea6/files/Presentation_JEMS_2020.pdf)
+* [Link to slides](https://github.com/aizardar/aizardar.github.io/blob/06d7a6be5a4f682dbf9b5bf5841917651bce1a71/files/Presentation_JEMS_2020.pdf)
