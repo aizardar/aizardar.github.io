@@ -2,7 +2,6 @@
 title: "First principles investigation of the impact of chemical order on the Magneto-crystalline anisotropy in L10-FeNi"
 collection: talks
 type: "Talk"
-permalink: /talks/JEMS_talk
 venue: Joint European Magnetic Symposia Virtual Conference 2020 
 date: 2020-12-11
 location: "Virtual"
