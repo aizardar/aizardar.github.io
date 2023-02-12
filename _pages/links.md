@@ -38,14 +38,19 @@ A visual introduction to probability and statistics
 ### [Clarity and Aesthetics in Data Visualization: Guidelines](https://filwd.substack.com/p/clarity-and-aesthetics-in-data-visualization)
 Excellent article discussing the clarity and aesthetics in data visualization
 
+### [Effective Pandas](https://www.youtube.com/watch?v=zgbUk90aQ6A&t=997s&ab_channel=PyData)
+Very useful talk on Pandas by Matt Harrison
+
+# Dimension reduction
+
 ### [Visualizing Data Using t-SNE](https://www.youtube.com/watch?v=RJVL80Gg3lA&t=761s&ab_channel=GoogleTechTalks)
 Wonderful talk by Laurens van der Maaten on how t-SNE works
 
+### [BioTuring Webinar | Using t SNE for Data Analysis: A Quick Introduction | Laurens van der Maaten](https://www.youtube.com/watch?v=bCkXxaoeFZ8&t=2612s&ab_channel=BioTuringTeam)
+Another informative talk by Laurens van der Maaten on using t-SNE for data analysis
+
 ### [Understanding UMAP](https://pair-code.github.io/understanding-umap/)
 A nice article focused on the theory of UMAP, how to use it effectively, and how its performance compares with t-SNE.
-
-### [Effective Pandas](https://www.youtube.com/watch?v=zgbUk90aQ6A&t=997s&ab_channel=PyData)
-Very useful talk on Pandas by Matt Harrison
 
 # Machine Learning
 
