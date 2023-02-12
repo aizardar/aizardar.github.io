@@ -8,4 +8,3 @@ date: 29 May 2020
 venue: 'Phys. Rev. Materials'
 paperurl: 'https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.4.054418'
 ---
-This paper is about the number 1. The number 2 is left for future work.
