@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ankit Izardar"
+title                    : "Dr. Ankit Izardar"
 title_separator          : "-"
-name                     : &name "Ankit Izardar"
-description              : &description "Materials scientist, Statistician, Data Scientist"
+name                     : &name "Dr. Ankit Izardar"
+description              : &description "Data Scientist, Materials scientist"
 url                      : https://aizardar.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "aizardar/aizardar.github.io"
