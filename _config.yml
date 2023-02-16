@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Ankit Izardar"
+title                    : "Ankit Izardar"
 title_separator          : "-"
-name                     : &name "Dr. Ankit Izardar"
+name                     : &name "Ankit Izardar, PhD"
 description              : &description "Data Scientist, Materials scientist"
 url                      : https://aizardar.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -77,7 +77,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ankit Izardar"
+  name             : "Ankit Izardar, PhD"
   avatar           : "ankit_2.png"
   bio              : "Materials Science, Data Science"
   location         : "Zurich, Switzerland"
