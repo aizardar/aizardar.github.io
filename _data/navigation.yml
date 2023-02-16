@@ -1,7 +1,5 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
 
 #   - title: "Teaching"
 #     url: /teaching/    
@@ -21,8 +19,17 @@ main:
 #   - title: "Guide"
 #     url: /markdown/
     
+  - title: "Blog"
+    url: https://aizardar.github.io/blogs/
+    
+#   - title: "CV"
+#     url: https://drive.google.com/file/d/1m46irRcFp4bBstv6dvIBEdtMmQWVsEBe/view?usp=sharing
+    
+  - title: "Publications"
+    url: /publications/
+    
   - title: "Links & Resources"
     url: /links/
-
+    
   - title: "Personal"
     url: /personal/
