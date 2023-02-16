@@ -1,4 +1,4 @@
----
+
 ---
 title: "Interplay between chemical order and magnetic properties in L10 FeNi (tetrataenite): A first-principles study"
 collection: publications
@@ -8,7 +8,6 @@ L10 FeNi. In particular, we investigate how deviations from perfect chemical ord
 date: 29 May 2020
 venue: 'Phys. Rev. Materials'
 paperurl: 'https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.4.054418'
----
 ---
 
 [Download paper here](https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.4.054418)
