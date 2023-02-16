@@ -1,7 +1,7 @@
 ---
-title: "Effect of chemical disorder on the magnetic anisotropy in L10 FeNi from first-principles calculations"
+title: "Impact of chemical disorder on magnetic exchange interactions in L10 FeNi"
 collection: publications
-date: 29 August 2022
-venue: 'Phys. Rev. Research'
+date: 29 April 2022
+venue: 'Phys. Rev. B'
 ---
-* [Download paper here](https://arxiv.org/abs/2111.12492)
+* [Download paper here](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.105.134428)
